@@ -46,7 +46,7 @@ void loop() {
 
     Serial.println();
 
-    Serial.print("ar05: 1+2+.....+100=");
+    Serial.print("ar09: 1+2+.....+100=");
 
     Serial.println(sum);
 
